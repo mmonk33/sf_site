@@ -1,0 +1,7 @@
+[user]
+	name = mmonk33
+	email = lawluker@gmail.com
+[credential]
+	helper = cache
+[alias]
+	history=log--graph
